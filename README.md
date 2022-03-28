@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pavkoccino.
+- 👀 I’m interested in CI/CD pipelines and automation in general. I also like to explore all kinds of DevOps technologies that come my way, but there is just so many that I take it slow and just dig a little bit into everything I need (Jenkins, Gitlab CI/CD, Docker, scripting - Python, Powershell, Batch).
+- 🌱 I’m currently learning everything I need, but mostly I focus on Python.
+- 📫 How to reach me: pekpavel96@gmail.com, 📸 instagram: pavelpek96.
